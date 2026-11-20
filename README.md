@@ -1,4 +1,4 @@
-# AdaptixBOF
+# TrustedSec-BOFs-Adaptix
 
 Forks of TrustedSec's BOF collections with `.axs` scripts added so they can be loaded and run from [Adaptix C2](https://github.com/Adaptix-Framework/AdaptixC2). The `.axs` files are ports of the original Cobalt Strike `.cna` (Aggressor) scripts. The BOF source code is unchanged.
 
